@@ -1,2 +1,2 @@
 # Sales-Analysis
-Performing sales analysis on the data in different time period
+Performing sales analysis on the sales data in different time period
